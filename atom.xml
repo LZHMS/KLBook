@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>KLBook</title>
+  <icon>https://lzhms.github.io/KBook/icon.png</icon>
+  <subtitle>Knowledge Library Book 📚 | Talking Head Generation 🗣️</subtitle>
+  <link href="https://lzhms.github.io/KBook/atom.xml" rel="self"/>
+  
+  <link href="https://lzhms.github.io/KBook/"/>
+  <updated>2025-04-03T16:00:00.000Z</updated>
+  <id>https://lzhms.github.io/KBook/</id>
+  
+  <author>
+    <name>Zhihao Li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>蓦然回首 | 藤野 | 京本 | 藤野京</title>
+    <link href="https://lzhms.github.io/KBook/essay/LookBack/"/>
+    <id>https://lzhms.github.io/KBook/essay/LookBack/</id>
+    <published>2025-04-03T16:00:00.000Z</published>
+    <updated>2025-04-03T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">《蓦然回首》讲述了两个性格相反的少女以对漫画的热爱为契机而联系在一起、共同经历成长的喜悦与泪水的故事。</summary>
+    
+    
+    
+    <category term="essay" scheme="https://lzhms.github.io/KBook/categories/essay/"/>
+    
+    
+    <category term="电影" scheme="https://lzhms.github.io/KBook/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+    <category term="动漫" scheme="https://lzhms.github.io/KBook/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+    <category term="励志" scheme="https://lzhms.github.io/KBook/tags/%E5%8A%B1%E5%BF%97/"/>
+    
+    <category term="友情" scheme="https://lzhms.github.io/KBook/tags/%E5%8F%8B%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 下 3D Vision 环境配置 (Gaussian Avatars)</title>
+    <link href="https://lzhms.github.io/KBook/blog/3DVisionConfig/"/>
+    <id>https://lzhms.github.io/KBook/blog/3DVisionConfig/</id>
+    <published>2025-02-17T16:00:00.000Z</published>
+    <updated>2025-02-17T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">本文主要基于 Windows 平台配置主要的 3D Vision 环境，并基于此环境配置完成 GaussianAvatars 环境配置。</summary>
+    
+    
+    
+    <category term="blog" scheme="https://lzhms.github.io/KBook/categories/blog/"/>
+    
+    
+    <category term="3D Vision" scheme="https://lzhms.github.io/KBook/tags/3D-Vision/"/>
+    
+    <category term="Windows" scheme="https://lzhms.github.io/KBook/tags/Windows/"/>
+    
+  </entry>
+  
+</feed>
