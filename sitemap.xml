@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lzhms.github.io/KBook/news/</loc>
+    <loc>https://lzhms.github.io/KBook/wiki/scene/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -20,7 +20,16 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/news/cat/</loc>
+    <loc>https://lzhms.github.io/KBook/news/</loc>
+    
+    <lastmod>2025-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/KBook/more/about/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -83,25 +92,16 @@
   </url>
   
   <url>
+    <loc>https://lzhms.github.io/KBook/news/cat/</loc>
+    
+    <lastmod>2025-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lzhms.github.io/KBook/wiki/human/</loc>
-    
-    <lastmod>2025-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzhms.github.io/KBook/wiki/scene/</loc>
-    
-    <lastmod>2025-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzhms.github.io/KBook/more/about/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
