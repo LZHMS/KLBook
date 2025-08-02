@@ -2,42 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lzhms.github.io/news/</loc>
-    
-    <lastmod>2025-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzhms.github.io/news/2023/</loc>
-    
-    <lastmod>2025-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzhms.github.io/news/cat/</loc>
-    
-    <lastmod>2025-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzhms.github.io/news/2024/</loc>
-    
-    <lastmod>2025-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lzhms.github.io/wiki/human/</loc>
     
     <lastmod>2025-08-02</lastmod>
@@ -65,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://lzhms.github.io/news/</loc>
+    
+    <lastmod>2025-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lzhms.github.io/more/about/</loc>
     
     <lastmod>2025-08-02</lastmod>
@@ -84,24 +57,6 @@
   
   <url>
     <loc>https://lzhms.github.io/more/music/</loc>
-    
-    <lastmod>2025-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzhms.github.io/news/2021/</loc>
-    
-    <lastmod>2025-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzhms.github.io/news/2022/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
