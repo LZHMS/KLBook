@@ -1,6 +1,4 @@
 https://lzhms.github.io/news/
-https://lzhms.github.io/news/2021/
-https://lzhms.github.io/news/2022/
 https://lzhms.github.io/news/2023/
 https://lzhms.github.io/news/2024/
 https://lzhms.github.io/news/cat/
@@ -10,6 +8,8 @@ https://lzhms.github.io/more/
 https://lzhms.github.io/more/about/
 https://lzhms.github.io/more/me/
 https://lzhms.github.io/more/music/
+https://lzhms.github.io/news/2021/
+https://lzhms.github.io/news/2022/
 https://lzhms.github.io/essay/LookBack/
 https://lzhms.github.io/blog/3DVisionConfig/
 https://lzhms.github.io/wiki/human/solid-work/3DGS
