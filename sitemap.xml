@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lzhms.github.io/KBook/wiki/scene/</loc>
+    <loc>https://lzhms.github.io/news/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/more/</loc>
+    <loc>https://lzhms.github.io/news/2021/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/news/</loc>
+    <loc>https://lzhms.github.io/news/2022/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/more/about/</loc>
+    <loc>https://lzhms.github.io/news/2023/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/more/me/</loc>
+    <loc>https://lzhms.github.io/news/2024/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/more/music/</loc>
+    <loc>https://lzhms.github.io/news/cat/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/news/2021/</loc>
+    <loc>https://lzhms.github.io/wiki/human/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/news/2022/</loc>
+    <loc>https://lzhms.github.io/wiki/scene/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/news/2023/</loc>
+    <loc>https://lzhms.github.io/more/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/news/2024/</loc>
+    <loc>https://lzhms.github.io/more/about/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/news/cat/</loc>
+    <loc>https://lzhms.github.io/more/me/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/wiki/human/</loc>
+    <loc>https://lzhms.github.io/more/music/</loc>
     
     <lastmod>2025-08-02</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/essay/LookBack/</loc>
+    <loc>https://lzhms.github.io/essay/LookBack/</loc>
     
     <lastmod>2025-04-03</lastmod>
     
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/blog/3DVisionConfig/</loc>
+    <loc>https://lzhms.github.io/blog/3DVisionConfig/</loc>
     
     <lastmod>2025-02-17</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/wiki/human/solid-work/3DGS</loc>
+    <loc>https://lzhms.github.io/wiki/human/solid-work/3DGS</loc>
     
     <lastmod>2024-04-21</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/wiki/human/solid-work/NeRF</loc>
+    <loc>https://lzhms.github.io/wiki/human/solid-work/NeRF</loc>
     
     <lastmod>2024-04-21</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/wiki/scene/solid-work/3DGS</loc>
+    <loc>https://lzhms.github.io/wiki/scene/solid-work/3DGS</loc>
     
     <lastmod>2024-04-21</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/wiki/scene/solid-work/NeRF</loc>
+    <loc>https://lzhms.github.io/wiki/scene/solid-work/NeRF</loc>
     
     <lastmod>2024-04-21</lastmod>
     
@@ -165,7 +165,7 @@
   
 
   <url>
-    <loc>https://lzhms.github.io/KBook</loc>
+    <loc>https://lzhms.github.io/</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -173,42 +173,42 @@
 
   
   <url>
-    <loc>https://lzhms.github.io/KBook/tags/3D-Vision/</loc>
+    <loc>https://lzhms.github.io/tags/3D-Vision/</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/tags/Windows/</loc>
+    <loc>https://lzhms.github.io/tags/Windows/</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <loc>https://lzhms.github.io/tags/%E7%94%B5%E5%BD%B1/</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/tags/%E5%8A%A8%E6%BC%AB/</loc>
+    <loc>https://lzhms.github.io/tags/%E5%8A%A8%E6%BC%AB/</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/tags/%E5%8A%B1%E5%BF%97/</loc>
+    <loc>https://lzhms.github.io/tags/%E5%8A%B1%E5%BF%97/</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/tags/%E5%8F%8B%E6%83%85/</loc>
+    <loc>https://lzhms.github.io/tags/%E5%8F%8B%E6%83%85/</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -217,14 +217,14 @@
 
   
   <url>
-    <loc>https://lzhms.github.io/KBook/categories/blog/</loc>
+    <loc>https://lzhms.github.io/categories/blog/</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/KBook/categories/essay/</loc>
+    <loc>https://lzhms.github.io/categories/essay/</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
