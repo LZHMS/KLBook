@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lzhms.github.io/wiki/scene/</loc>
+    
+    <lastmod>2025-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lzhms.github.io/news/</loc>
     
     <lastmod>2025-08-04</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://lzhms.github.io/wiki/human/</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzhms.github.io/wiki/scene/</loc>
     
     <lastmod>2025-08-04</lastmod>
     
@@ -74,6 +74,51 @@
   </url>
   
   <url>
+    <loc>https://lzhms.github.io/wiki/GenerativeModel/video-gen/</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/wiki/3DTalkingHead/3dgs-based/regressive/</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/wiki/3DTalkingHead/3dmms-based/generative/</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/wiki/3DTalkingHead/3dmms-based/regressive/</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/wiki/3DTalkingHead/keypoints-based/generative/</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lzhms.github.io/wiki/3DTalkingHead/mesh-based/generative/</loc>
     
     <lastmod>2025-08-03</lastmod>
@@ -92,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/wiki/3DTalkingHead/keypoints-based/generative/</loc>
+    <loc>https://lzhms.github.io/wiki/3DTalkingHead/nerf-based/regressive/</loc>
     
     <lastmod>2025-08-03</lastmod>
     
