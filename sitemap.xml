@@ -2,45 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lzhms.github.io/more/</loc>
-    
-    <lastmod>2025-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lzhms.github.io/news/</loc>
     
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://lzhms.github.io/more/about/</loc>
+    <loc>https://lzhms.github.io/wiki/3DTalkingHead/</loc>
     
-    <lastmod>2025-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzhms.github.io/more/games/</loc>
-    
-    <lastmod>2025-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzhms.github.io/more/music/</loc>
-    
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +22,7 @@
   <url>
     <loc>https://lzhms.github.io/wiki/human/</loc>
     
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -57,6 +30,69 @@
   
   <url>
     <loc>https://lzhms.github.io/wiki/scene/</loc>
+    
+    <lastmod>2025-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/more/</loc>
+    
+    <lastmod>2025-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/more/about/</loc>
+    
+    <lastmod>2025-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/more/games/</loc>
+    
+    <lastmod>2025-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/more/music/</loc>
+    
+    <lastmod>2025-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/wiki/3DTalkingHead/mesh-based/generative/</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/wiki/3DTalkingHead/mesh-based/regressive/</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzhms.github.io/wiki/3DTalkingHead/keypoints-based/generative/</loc>
     
     <lastmod>2025-08-03</lastmod>
     
@@ -121,7 +157,7 @@
 
   <url>
     <loc>https://lzhms.github.io/</loc>
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,42 +165,42 @@
   
   <url>
     <loc>https://lzhms.github.io/tags/3D-Vision/</loc>
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzhms.github.io/tags/Windows/</loc>
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzhms.github.io/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzhms.github.io/tags/%E5%8A%A8%E6%BC%AB/</loc>
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzhms.github.io/tags/%E5%8A%B1%E5%BF%97/</loc>
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzhms.github.io/tags/%E5%8F%8B%E6%83%85/</loc>
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -173,14 +209,14 @@
   
   <url>
     <loc>https://lzhms.github.io/categories/blog/</loc>
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzhms.github.io/categories/essay/</loc>
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
